@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: World Map Tooltip Scale
+## Notes: Setzt die Skalierung von WorldMapTooltip und bietet einen Minimap-Button.
+## Author: Local
+## Version: 1.0.0
+## SavedVariables: WorldMapTooltipScaleDB
+
+WorldMapTooltipScale.lua
