@@ -1,3 +1,4 @@
+[English](README.md)
 # World Map Tooltip Scale
 
 Ein kleines Addon für **World of Warcraft: Wrath of the Lich King 3.3.5a**.
